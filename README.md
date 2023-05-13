@@ -1,6 +1,8 @@
 # blobfile
 Similar to https://pypi.org/project/blobfile/
+
 Implements fetching of public files only.
+
 Works for:
   - **http://\<path\>** and **https://\<path\>** - (Regular http and https)
   - **gs://\<bucket\>** - (Google Cloud Storage)
